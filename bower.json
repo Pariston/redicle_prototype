@@ -1,0 +1,21 @@
+{
+  "name": "RedicleWEB",
+  "description": "",
+  "main": "",
+  "authors": [
+    "whocares <lawlietdb@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angular2#^1.5.6"
+  }
+}
